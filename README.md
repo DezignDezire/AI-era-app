@@ -2,7 +2,7 @@
 
 Einfache Website mit:
 - digitaler Uhr (rot, Wecker-Stil)
-- Gästebuch (Name + Nachricht), gespeichert in Supabase
+- "Melde hier den Aktuelles ein!"-Bereich (Name + Nachricht), gespeichert in Supabase
 
 ## Lokales Starten
 
